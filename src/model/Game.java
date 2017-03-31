@@ -7,6 +7,7 @@ public class Game {
 		
 		System.out.println("I changeds");
 		System.out.println("Practicing commit");
+		
 	}
 
 }
